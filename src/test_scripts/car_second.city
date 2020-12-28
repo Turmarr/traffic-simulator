@@ -1,0 +1,14 @@
+#size of city
+4,4
+
+
+#time
+50
+
+#interval
+40
+
+#car
+1,2;2,3;red
+2,3;1,2;green
+0,3;2,3;yellow

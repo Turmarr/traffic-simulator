@@ -1,0 +1,15 @@
+#size of city
+2,2
+
+#building
+0,1
+
+#startpoint
+0,0
+1,1
+
+#crosspoint
+1,0
+
+#car
+0,0;1,1;yellow
